@@ -1,0 +1,1 @@
+This is an example of how I structure my puppet modules to ensure properly built machines after a single run of puppet. I use these in conjunction with Vagrant to provision machines for an entire infastructure defined in code.
